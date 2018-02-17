@@ -5,3 +5,4 @@ life-game
    :maxdepth: 4
 
    life
+   tests
