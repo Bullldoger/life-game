@@ -67,6 +67,6 @@ class SimpleFieldGenerator:
 
         for i in range(rows):
             for j in range(cols):
-                square.set_cell(pos_x = i, pos_y = j)
+                square.set_cell(pos_x=i, pos_y=j)
 
         return square
