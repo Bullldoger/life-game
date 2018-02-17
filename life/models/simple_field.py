@@ -1,5 +1,5 @@
 """
-    Class with field models.
+    Class with simple field model.
 """
 
 import numpy

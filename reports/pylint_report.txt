@@ -66,3 +66,97 @@ Your code has been rated at 9.63/10 (previous run: 9.26/10, +0.37)
 -------------------------------------------------------------------
 Your code has been rated at 10.00/10 (previous run: 9.63/10, +0.37)
 
+************* Module life
+C:  9, 4: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:  6, 0: standard import "from pprint import pprint" should be placed before "import yaml" (wrong-import-order)
+************* Module life.fieds_generators
+C:  7, 0: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module life.fieds_generators.simple_generator
+C:  3, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+W:  1, 0: Unused import life (unused-import)
+W:  2, 0: Unused import life.models (unused-import)
+W:  3, 0: Unused Field imported from life.models.simple_field (unused-import)
+************* Module life.controllers
+C:  7, 0: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module life.models
+C:  7, 0: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+-------------------------------------------------------------------
+Your code has been rated at 7.92/10 (previous run: 10.00/10, -2.08)
+
+************* Module life
+C:  9, 4: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:  6, 0: standard import "from pprint import pprint" should be placed before "import yaml" (wrong-import-order)
+************* Module life.fieds_generators
+C:  7, 0: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module life.fieds_generators.simple_generator
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  6, 0: Empty class docstring (empty-docstring)
+R:  6, 0: Too few public methods (1/2) (too-few-public-methods)
+W:  1, 0: Unused import life (unused-import)
+W:  2, 0: Unused import life.models (unused-import)
+W:  3, 0: Unused Field imported from life.models.simple_field (unused-import)
+************* Module life.controllers
+C:  7, 0: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module life.models
+C:  7, 0: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 7.92/10 (previous run: 7.92/10, +0.01)
+
+************* Module life
+C:  6, 0: standard import "from pprint import pprint" should be placed before "import yaml" (wrong-import-order)
+************* Module life.fieds_generators
+C:  7, 0: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module life.fieds_generators.simple_generator
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  6, 0: Empty class docstring (empty-docstring)
+R:  6, 0: Too few public methods (1/2) (too-few-public-methods)
+W:  1, 0: Unused import life (unused-import)
+W:  2, 0: Unused import life.models (unused-import)
+W:  3, 0: Unused Field imported from life.models.simple_field (unused-import)
+************* Module life.controllers
+C:  7, 0: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module life.models
+C:  7, 0: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.11/10 (previous run: 7.92/10, +0.19)
+
+************* Module life
+C:  6, 0: standard import "from pprint import pprint" should be placed before "import yaml" (wrong-import-order)
+************* Module life.fieds_generators.simple_generator
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  6, 0: Empty class docstring (empty-docstring)
+R:  6, 0: Too few public methods (1/2) (too-few-public-methods)
+W:  1, 0: Unused import life (unused-import)
+W:  2, 0: Unused import life.models (unused-import)
+W:  3, 0: Unused Field imported from life.models.simple_field (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 8.68/10 (previous run: 8.11/10, +0.57)
+
+************* Module life.fieds_generators.simple_generator
+C:  1, 0: Missing module docstring (missing-docstring)
+R:  6, 0: Too few public methods (1/2) (too-few-public-methods)
+W:  1, 0: Unused import life (unused-import)
+W:  2, 0: Unused import life.models (unused-import)
+W:  3, 0: Unused Field imported from life.models.simple_field (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 8.68/10, +0.38)
+
+************* Module life.fieds_generators.simple_generator
+R: 10, 0: Too few public methods (1/2) (too-few-public-methods)
+W:  5, 0: Unused import life (unused-import)
+W:  6, 0: Unused import life.models (unused-import)
+W:  7, 0: Unused Field imported from life.models.simple_field (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 9.25/10 (previous run: 9.06/10, +0.19)
+
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.25/10, +0.75)
+

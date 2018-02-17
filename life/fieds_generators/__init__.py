@@ -1,5 +1,5 @@
 """
-    Module with models for games.
+    Contains fields generators.
 """
 
 import life

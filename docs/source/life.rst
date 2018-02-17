@@ -7,6 +7,7 @@ Subpackages
 .. toctree::
 
     life.controllers
+    life.fieds_generators
     life.models
 
 Module contents

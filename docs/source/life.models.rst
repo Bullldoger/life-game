@@ -4,10 +4,10 @@ life.models package
 Submodules
 ----------
 
-life.models.field module
-------------------------
+life.models.simple\_field module
+--------------------------------
 
-.. automodule:: life.models.field
+.. automodule:: life.models.simple_field
     :members:
     :undoc-members:
     :show-inheritance:

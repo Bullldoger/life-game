@@ -2,7 +2,7 @@
     Contains all controllers for control game and field.
 """
 
-from life.models.field import Field
+from life.models.simple_field import Field
 
 
 class FieldController:
