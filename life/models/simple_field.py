@@ -58,3 +58,15 @@ class Field:
         unpacked_field = Field(n_rows=n_rows, n_cols=n_cols, square=square)
 
         return unpacked_field
+
+    def set_cell(self, pos_x=0, pos_y=0):
+        """
+
+        :param pos_x:
+        :param pos_y:
+        :return:
+        """
+        square_shape = self.square.shape
+
+        if (pos_x > -1 and pos_y > -1) and (pos_x < square_shape[1] and pos_y < square_shape[0]):
+            self.square[pos_y][pos_x] = 1

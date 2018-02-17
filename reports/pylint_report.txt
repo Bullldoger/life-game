@@ -192,3 +192,17 @@ Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 --------------------------------------------------------------------
 Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 
+************* Module life.models.simple_field
+C: 69, 8: Variable name "sh" doesn't conform to snake_case naming style (invalid-name)
+
+-------------------------------------------------------------------
+Your code has been rated at 9.87/10 (previous run: 10.00/10, -0.13)
+
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.87/10, +0.13)
+
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
