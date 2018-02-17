@@ -147,6 +147,5 @@
   "life/fieds_generators/__init__.py": true,
   "life/fieds_generators/simple_generator.py": true,
   "life/models/__init__.py": true,
-  "life/models/simple_field.py": true,
-  "tests/controllers_tests/fields_controllers_tests.py::SimpleFieldGeneratorTest": true
+  "life/models/simple_field.py": true
 }
