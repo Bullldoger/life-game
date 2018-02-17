@@ -58,4 +58,15 @@ class SimpleFieldGenerator:
 
         :return:
         """
-        pass
+        conf = fieds_generators.CONFIG
+
+        rows = conf['fields']['default']['rows']
+        cols = conf['fields']['default']['cols']
+
+        square = Field(n_rows=rows, n_cols=cols)
+
+        for i in range(rows):
+            for j in range(cols):
+                square.set_cell(pos_x = i, pos_y = j)
+
+        return square

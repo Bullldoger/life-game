@@ -210,3 +210,14 @@ Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 --------------------------------------------------------------------
 Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 
+************* Module life.fieds_generators.simple_generator
+C: 70, 0: No space allowed around keyword argument assignment
+                square.set_cell(pos_x = i, pos_y = j)
+                                      ^ (bad-whitespace)
+C: 70, 0: No space allowed around keyword argument assignment
+                square.set_cell(pos_x = i, pos_y = j)
+                                                 ^ (bad-whitespace)
+
+-------------------------------------------------------------------
+Your code has been rated at 9.76/10 (previous run: 10.00/10, -0.24)
+
