@@ -6,10 +6,9 @@ cat reports/pylint_report.txt
 
 find tests/ -iname "*.py" | xargs py.test --junitxml reports/tests_report.xml
 
-cd docs/
-sphinx-apidoc -f -o source/ ././life/
+cd life
+sphinx-apidoc -f -o docs/source/ .
 make html
-cd ../
 
 git add .
 git commit -m "Changes upload"

@@ -15,6 +15,7 @@ class SimpleFieldGeneratorTest(unittest.TestCase):
             Executed before every test run.
         :return:
         """
+        self.config = life.CONFIG
 
     def tearDown(self):
         """
