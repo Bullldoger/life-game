@@ -20,12 +20,12 @@ class SimpleFieldGenerator:
         pass
 
     @staticmethod
-    def generate_field():
+    def generate_field(conf):
         """
+        :param conf:
 
         :return:
         """
-        conf = fieds_generators.CONFIG
 
         rows = conf['fields']['default']['rows']
         cols = conf['fields']['default']['cols']
@@ -53,12 +53,12 @@ class SimpleFieldGenerator:
         return square
 
     @staticmethod
-    def generate_full_field():
+    def generate_full_field(conf):
         """
+        :param conf
 
         :return:
         """
-        conf = fieds_generators.CONFIG
 
         rows = conf['fields']['default']['rows']
         cols = conf['fields']['default']['cols']
