@@ -1,8 +1,6 @@
-life-game
-=========
+projects
+========
 
 .. toctree::
    :maxdepth: 4
 
-   life
-   tests
