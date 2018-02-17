@@ -4,7 +4,6 @@
 
 import random
 
-from life import fieds_generators
 from life.models.simple_field import Field
 
 
