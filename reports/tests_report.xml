@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="0" time="0.016"></testsuite>
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.022"><testcase classname="tests.fields_generators_tests.simple_generator_tests.SimpleFieldGeneratorTest" file="tests/fields_generators_tests/simple_generator_tests.py" line="26" name="test" time="0.0011568069458007812"></testcase></testsuite>
