@@ -8,3 +8,7 @@ cd docs/
 sphinx-apidoc -f -o source/ ../
 make html
 cd ../
+
+git add .
+git commit -m "Changes upload"
+git push
