@@ -17,6 +17,7 @@ class SimpleFieldGeneratorTest(unittest.TestCase):
         :return:
         """
         self.config = life.CONFIG
+        print('-' * 100)
         pass
 
     def tearDown(self):
@@ -26,7 +27,9 @@ class SimpleFieldGeneratorTest(unittest.TestCase):
         """
         pass
 
+    def example_test(self):
+        self.assertEqual(True, True)
+
 
 if __name__ == '__main__':
-    print('-' * 1000)
     unittest.main()
