@@ -7,7 +7,7 @@ cat reports/pylint_report.txt
 find tests/ -iname "*.py" | xargs py.test --junitxml reports/tests_report.xml
 
 cd docs/
-sphinx-apidoc -f -o source/ ././life/
+sphinx-apidoc -f -o source/ ../
 make html
 cd ../
 
