@@ -2,6 +2,9 @@
 
 """
 
+import sys
+sys
+
 import unittest
 import life
 
