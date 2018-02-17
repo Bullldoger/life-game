@@ -3,7 +3,7 @@
 """
 
 import unittest
-
+import life
 
 class SimpleFieldGeneratorTest(unittest.TestCase):
     """
