@@ -1,0 +1,5 @@
+fields:
+    default:
+        rows: 10
+        cols: 10
+        proportion: 0.2
