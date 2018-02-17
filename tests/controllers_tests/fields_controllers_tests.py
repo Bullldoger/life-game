@@ -27,9 +27,6 @@ class SimpleFieldGeneratorTest(unittest.TestCase):
         """
         pass
 
-    def example_test(self):
-        self.assertEqual(True, True)
-
 
 if __name__ == '__main__':
     unittest.main()
