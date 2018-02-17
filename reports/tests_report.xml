@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.091"><testcase classname="" file="tests/controllers_tests/fields_controllers_tests.py" name="tests.controllers_tests.fields_controllers_tests" time="0"><error message="collection failure">tests/controllers_tests/fields_controllers_tests.py:6: in &lt;module&gt;
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.083"><testcase classname="" file="tests/controllers_tests/fields_controllers_tests.py" name="tests.controllers_tests.fields_controllers_tests" time="0"><error message="collection failure">tests/controllers_tests/fields_controllers_tests.py:6: in &lt;module&gt;
     import life
 life/__init__.py:8: in &lt;module&gt;
     with open(&quot;../config.yaml&quot;, &apos;r&apos;) as stream:
