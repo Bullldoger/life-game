@@ -1,1 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.022"><testcase classname="tests.fields_generators_tests.simple_generator_tests.SimpleFieldGeneratorTest" file="tests/fields_generators_tests/simple_generator_tests.py" line="24" name="test" time="0.0009045600891113281"></testcase></testsuite>
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skips="0" tests="2" time="0.039"><testcase classname="tests.fields_generators_tests.simple_generator_tests.SimpleFieldGeneratorTest" file="tests/fields_generators_tests/simple_generator_tests.py" line="24" name="test" time="0.0009398460388183594"></testcase><testcase classname="tests.fields_generators_tests.simple_generator_tests.SimpleFieldGeneratorTest" file="tests/fields_generators_tests/simple_generator_tests.py" line="27" name="test1" time="0.0006692409515380859"><failure message="AssertionError: 1 != 2">self = &lt;tests.fields_generators_tests.simple_generator_tests.SimpleFieldGeneratorTest testMethod=test1&gt;
+
+    def test1(self):
+&gt;       self.assertEqual(1, 2)
+E       AssertionError: 1 != 2
+
+tests/fields_generators_tests/simple_generator_tests.py:29: AssertionError</failure></testcase></testsuite>
