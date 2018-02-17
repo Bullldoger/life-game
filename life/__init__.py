@@ -5,7 +5,7 @@
 from pprint import pprint
 import yaml
 
-with open("../config.yaml", 'r') as stream:
+with open("config.yaml", 'r') as stream:
     CONFIG = yaml.load(stream)
 
     pprint('used config: ')
