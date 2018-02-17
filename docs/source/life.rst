@@ -6,6 +6,7 @@ Subpackages
 
 .. toctree::
 
+    life.controllers
     life.models
 
 Module contents
