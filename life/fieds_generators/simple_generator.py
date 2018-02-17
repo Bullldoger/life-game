@@ -7,6 +7,7 @@ import random
 from life import fieds_generators
 from life.models.simple_field import Field
 
+
 class SimpleFieldGenerator:
     """
         Represents a simple field generator
@@ -50,7 +51,6 @@ class SimpleFieldGenerator:
             all_cells = set(cells_set)
 
         return square
-
 
     @staticmethod
     def generate_full_field():
