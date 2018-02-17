@@ -15,12 +15,14 @@ class SimpleFieldGeneratorTest(unittest.TestCase):
             Executed before every test run.
         :return:
         """
+        pass
 
     def tearDown(self):
         """
 
         :return:
         """
+        pass
 
 
 if __name__ == '__main__':

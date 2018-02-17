@@ -17,12 +17,14 @@ class SimpleFieldGeneratorTest(unittest.TestCase):
         :return:
         """
         self.config = life.CONFIG
+        pass
 
     def tearDown(self):
         """
 
         :return:
         """
+        pass
 
 
 if __name__ == '__main__':
