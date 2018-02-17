@@ -4,11 +4,12 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../life'))
-print(os.path)
+
+sys.path.insert(0, os.path.abspath('../../../life'))
 
 import unittest
 import life
+
 
 class SimpleFieldGeneratorTest(unittest.TestCase):
     """
