@@ -1,3 +1,15 @@
 #!/usr/bin/env bash
 
-sh deployment/deployment.sh
+find life/ -iname "*.py" | xargs pylint --rcfile=.pylintrc >> reports/pylint_report.txt
+cat reports/pylint_report.txt
+
+find tests/ -iname "*_tests.py" | xargs py.test --junitxml reports/tests_report.xml
+
+cd docs/
+sphinx-apidoc -f -o docs/source/ ../life/
+make html
+cd ../
+
+git add .
+git commit -m "Changes upload"
+git push
