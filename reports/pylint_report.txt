@@ -1,0 +1,20 @@
+************* Module life.__init__
+C:  3, 0: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.52/10 (previous run: 9.52/10, +0.00)
+
+************* Module life.__init__
+C:  3, 0: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.52/10 (previous run: 9.52/10, +0.00)
+
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.52/10, +0.48)
+
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
