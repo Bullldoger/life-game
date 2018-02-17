@@ -9,6 +9,7 @@ find tests/ -iname "*.py" | xargs py.test --junitxml reports/tests_report.xml
 cd life
 sphinx-apidoc -f -o docs/source/ .
 make html
+cd ../
 
 git add .
 git commit -m "Changes upload"
