@@ -1,3 +1,4 @@
 {
+  "tests/controllers_tests/fields_controllers_tests.py": true,
   "tests/controllers_tests/fields_controllers_tests.py::SimpleFieldGeneratorTest": true
 }
